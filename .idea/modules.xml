@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ofuns/ofuns.iml" filepath="$PROJECT_DIR$/ofuns/ofuns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/基于springboot+vue微信小程序宠物用品在线商城的设计与实现.iml" filepath="$PROJECT_DIR$/.idea/基于springboot+vue微信小程序宠物用品在线商城的设计与实现.iml" />
+    </modules>
+  </component>
+</project>
